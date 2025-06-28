@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xrigls Reference Interval Estimation by Generalized Least Squares Use xrigls With STATA 19

@@ -1,0 +1,6 @@
+D 'xrigls': Reference Interval Estimation by Generalized Least Squares Use xrigls With STATA 19
+D
+F xrigls.ado
+F xrigls.hlp
+F centcalc.ado
+F centcalc.hlp
